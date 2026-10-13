@@ -1,0 +1,5 @@
+description,qty,unit_cost,unit_price
+Labour (hours),6,30,65
+Materials: tap set,1,42.50,
+Materials: fittings,4,3.20,
+Travel (km),40,0.30,0.60
